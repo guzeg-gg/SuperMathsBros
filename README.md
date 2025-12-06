@@ -11,7 +11,7 @@ currently in semi-open alpha
 
 Link to web version (latest update):
 
-___https://guzeggamerguy.github.io/SuperMathsBros/___
+___https://guzeg-gg.github.io/SuperMathsBros/___
 
 ## Credits
 by GUZEGGAMERGUY 
